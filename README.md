@@ -1,6 +1,6 @@
 # Anonymous Submission - AI Essay Feedback System
 
-This repository contains the source code for the paper submitted to [Journal Name]:
+This repository contains the source code for the paper submitted to JALT CALL:
 "Automated Coded Feedback in ESL Writing Assessment: A Comparative Accuracy Study"
 
 ## Anonymization Notice
